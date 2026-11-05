@@ -14,7 +14,6 @@
     "ger": "0.0.99",
     "jwt-decode": "^2.2.0",
     "moment": "^2.24.0",
-    "node-sass": "^4.13.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-google-login": "^5.1.2",
@@ -25,6 +24,7 @@
     "redux": "^4.0.4",
     "redux-thunk": "^2.3.0",
     "rxjs": "^6.5.4",
+    "sass": "^1.107.1",
     "socket.io-client": "^2.3.0"
   },
   "scripts": {
